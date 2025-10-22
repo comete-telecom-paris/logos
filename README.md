@@ -2,8 +2,8 @@
 
 ## PNG
 
-![Logo Comète PNG](./logo_comete_v2.png)
+![Logo Comète PNG](./2025_logo_comete_v2.png)
 
 ## SVG
 
-![Logo Comète](./logo_comete_v2.svg)
+![Logo Comète](./2025_logo_comete_v2.svg)
